@@ -1,6 +1,6 @@
 # SCP:SL Server Info Discord Bot
 A discord bot that allows you to ping any server (by ip) and gather the info, players, and name.
-#Credits
+# Credits
 https://kigen.co/scpsl/browser.php
 https://www.npmjs.com/package/jsdom
 https://discord.js.org/#/
